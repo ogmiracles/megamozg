@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60cb67d9-bf24-4d78-97ad-cc50dc2a5495" name="Changes" comment="Third commit">
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mediafiles/images/products/a183e2ba-c59a-450c-9531-0c4d2ce6ef55.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mediafiles/images/products/b3b32fd3-1197-4228-bde3-e958c2a813a5.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mediafiles/images/products/e43fa1ca-cddc-431f-8b63-eb88f2c37689.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quickstart/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quickstart/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry.lock" beforeDir="false" afterPath="$PROJECT_DIR$/poetry.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickstart/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/quickstart/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickstart/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/quickstart/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickstart/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/quickstart/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial/urls.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="8dab9dd6-960c-4e96-beb5-f5e33ca15600" />
+        <option name="url" value="https://github.com/NightCrawler040/django-admin-53.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MVTKTJ28MgYdL5PzxJiBqX8mt2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/birga/PycharmProjects/skeleton&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\birga\PycharmProjects\work first ddd\images\products" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="work first ddd" type="Python.DjangoServer" factoryName="Django server">
+      <module name="work first ddd" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60cb67d9-bf24-4d78-97ad-cc50dc2a5495" name="Changes" comment="" />
+      <created>1677851685825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677851685825</updated>
+      <workItem from="1677851686990" duration="6171000" />
+      <workItem from="1678111124519" duration="1519000" />
+      <workItem from="1678254847103" duration="4000" />
+      <workItem from="1678285448560" duration="5616000" />
+      <workItem from="1678714564124" duration="6676000" />
+      <workItem from="1678887188795" duration="4990000" />
+      <workItem from="1679125361744" duration="1765000" />
+      <workItem from="1679147223912" duration="644000" />
+      <workItem from="1679223047517" duration="3749000" />
+      <workItem from="1679280582047" duration="10479000" />
+      <workItem from="1679367880100" duration="3957000" />
+      <workItem from="1679372635876" duration="173000" />
+      <workItem from="1679536147758" duration="3057000" />
+      <workItem from="1679659253938" duration="680000" />
+      <workItem from="1679659955633" duration="613000" />
+      <workItem from="1679665661441" duration="1724000" />
+      <workItem from="1679743894953" duration="987000" />
+      <workItem from="1679894898985" duration="1584000" />
+      <workItem from="1679925746415" duration="885000" />
+      <workItem from="1680010380419" duration="1439000" />
+      <workItem from="1680016925853" duration="632000" />
+      <workItem from="1680070189768" duration="3314000" />
+      <workItem from="1680142374463" duration="752000" />
+      <workItem from="1680244165969" duration="8000" />
+      <workItem from="1680244183896" duration="1032000" />
+      <workItem from="1680269661253" duration="3448000" />
+      <workItem from="1680330575049" duration="791000" />
+      <workItem from="1680411424123" duration="1370000" />
+      <workItem from="1680518145440" duration="4534000" />
+      <workItem from="1680701938557" duration="1851000" />
+      <workItem from="1680762737385" duration="88000" />
+      <workItem from="1680882436869" duration="1695000" />
+      <workItem from="1681134030878" duration="1737000" />
+      <workItem from="1681137346306" duration="1804000" />
+      <workItem from="1681307029222" duration="700000" />
+      <workItem from="1681479377544" duration="4046000" />
+      <workItem from="1681655485144" duration="213000" />
+      <workItem from="1681737557049" duration="758000" />
+      <workItem from="1681830444304" duration="3252000" />
+      <workItem from="1681887265024" duration="909000" />
+      <workItem from="1681911674048" duration="1733000" />
+      <workItem from="1682083315523" duration="1811000" />
+      <workItem from="1682517145059" duration="2301000" />
+      <workItem from="1682688843530" duration="3152000" />
+      <workItem from="1682692069705" duration="292000" />
+      <workItem from="1682692374741" duration="1613000" />
+      <workItem from="1682770367673" duration="4300000" />
+      <workItem from="1683120830870" duration="4038000" />
+      <workItem from="1683343197071" duration="670000" />
+    </task>
+    <task id="LOCAL-00001" summary="Second">
+      <created>1678714652446</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678714652446</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Third commit">
+      <created>1681556205042</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681556205042</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Second" />
+    <MESSAGE value="Third commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Third commit" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/work_first_ddd$models.coverage" NAME="models Coverage Results" MODIFIED="1679369652573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/quickstart" />
+  </component>
+</project>
